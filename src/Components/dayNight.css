@@ -1,0 +1,24 @@
+.innerWrapper{
+    margin-top: 10%;
+    width: 500px;
+    height: 400px;
+    display: grid;
+    place-content: center;
+    font-size: 2rem;
+    transition: 1s;
+}
+.dayTime{
+    background-color: cornflowerblue;
+    color: black;
+    border: 2px solid black;
+}
+
+.nightTime{
+    background-color: darkblue;
+    color: white;
+    border: 1px solid white;
+}
+
+button{
+    font-size: 1.5rem;
+}
